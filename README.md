@@ -33,7 +33,7 @@ A simple yet fun Number Guessing Game built with HTML, CSS, and JavaScript! The 
 3. Track your previous guesses and remaining attempts, displayed on the screen.
 4. When you’ve used up all attempts or guessed correctly, start a new game using the "New Game" option.
 
-![Demo Video](video\20241028-0709-35.6784584.mp4)
+![Demo Video](video\Demo.mp4)
 
 - **Number Guessing Game**
 ## Technologies Used
